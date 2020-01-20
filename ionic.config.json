@@ -1,0 +1,7 @@
+{
+  "name": "websocket-debug",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
